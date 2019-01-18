@@ -35,7 +35,7 @@ class Driver(object):
 
     #@staticmethod
     def get_curr_driver(self):
-        print("Fuck----") #,sDriver.driver
+        print("get_driver----") #,sDriver.driver
         return self.driver
 
     def stop(self):
